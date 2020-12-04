@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="editTextColorWhite">#ffffff</color>
+    <color name="raisedButton">#5EEC66</color>
+    <color name="button">#4BC0F6</color>
+    <color name="ColorLogin">#3C5F85</color>
+    <color name="Image1">#BAED97</color>
+    <color name="Image2">#89DC36</color>
+    <color name="colotitle">#89DC36</color>
+    <color name="colotitle2">#E3C11C</color>
+</resources>
